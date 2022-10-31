@@ -51,3 +51,8 @@
  
 ![enter image description here](https://d1.awsstatic.com/product-marketing/Rekognition/Amazon-Rekognition-Streaming-Video-Events_HIW@2x.1101590fd38815a9ee9400f1c13462db514683fa.png)
 
+## Amazon Rekognition Custom Labels
+- How it works
+
+![image](https://user-images.githubusercontent.com/65948438/198953609-e6aa24f3-36fd-4cb4-b32b-233886540b7e.png)
+
