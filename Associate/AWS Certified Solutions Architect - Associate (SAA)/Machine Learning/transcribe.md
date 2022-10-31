@@ -17,7 +17,5 @@ Transcription method can be separated in to two main categories
 - Batch transcription jobs: Transcribe media files that have been uploaded to S3 bucket
 - Streaming transcriptions: Transcribe media streams in real time
 
-**How it works**
-
 ![enter image description here](https://d1.awsstatic.com/product-marketing/product-page-diagram_Amazon-Transcribe-Call-Analytics_HIW-2x.2757484967d6152013bd6c03f0e102c8e50f7e35.png)
 
