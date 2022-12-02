@@ -1,6 +1,7 @@
 # Disaster Recovery
 
 - Any event that has a negative impact on a company’s business continuity or finances is a disaster
+- https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html
 
 ## Types of Disaster Recovery (DR)
 - On-premise => On-premise: traditional and very expensive
